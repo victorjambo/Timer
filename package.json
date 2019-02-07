@@ -1,7 +1,7 @@
 {
-  "name": "team-timer",
+  "name": "timer",
   "version": "0.1.0",
-  "homepage": "https://paulkariukirimiru.github.io/Team-timer/",
+  "homepage": "https://victorjambo.github.io/Timer/",
   "private": true,
   "dependencies": {
     "@types/lodash": "^4.14.116",
@@ -105,7 +105,7 @@
     ],
     "globals": {
       "ts-jest": {
-        "tsConfigFile": "/Users/paulrimiru/Desktop/Andela/team-timer/tsconfig.test.json"
+        "tsConfigFile": "/Users/victormutai/workspace/Team-timer/tsconfig.test.json"
       }
     }
   },
